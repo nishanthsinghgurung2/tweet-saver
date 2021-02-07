@@ -1,0 +1,34 @@
+
+.tweet {
+    border: 1px solid black;
+    display: flex;
+}
+
+.profileDetailsFirstRow {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.profileDetailsFirstRow span {
+    flex: 1 1 30%;
+}
+
+.profileDetails {
+    flex: 1;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.userName {
+    font-weight: bold;
+}
+
+.screenName {
+    position: relative;
+}
+
+.tweetDate {
+    text-align: right;
+}

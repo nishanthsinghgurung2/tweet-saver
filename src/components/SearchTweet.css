@@ -1,0 +1,21 @@
+.searchTweet {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.searchTxt {
+    width: 300px;
+    height: 30px;
+    position: relative;
+    bottom: 10px;
+}
+
+.searchBtn {
+    height: 36px;
+    margin: 10px;
+}
+
+.searchBtn img {
+    width: 30px;
+    height: 30px;
+}
